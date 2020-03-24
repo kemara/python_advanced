@@ -1,1 +1,5 @@
 Creating new file for examples.txt
+Example 1:
+    - 
+Example 2:
+    -
