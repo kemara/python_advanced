@@ -1,6 +1,4 @@
 # python_advanced
+
 Examples from Fluent Python book
-
-same changes
-
-another cahnge
+This is example of README file
